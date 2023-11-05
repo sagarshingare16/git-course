@@ -1,2 +1,4 @@
 get user input............
 process the data
+
+create an avatr for usre
